@@ -83,13 +83,13 @@ export const Hero = () => {
               </a>
             </Button>
             <Button variant="outline" size="lg" className="gap-2" asChild>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Sathish120804" target="_blank" rel="noopener noreferrer">
                 <Github className="h-4 w-4" />
                 GitHub
               </a>
             </Button>
             <Button variant="outline" size="lg" className="gap-2" asChild>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/sathish-a-3204aa27b" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-4 w-4" />
                 LinkedIn
               </a>

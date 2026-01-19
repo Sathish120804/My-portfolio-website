@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Mail, Github, Linkedin, MapPin, Send } from "lucide-react";
+import { Mail, Github, Linkedin, MapPin, Phone, Send } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -10,20 +10,26 @@ const contactLinks = [
   {
     icon: Mail,
     label: "Email",
-    value: "sathish.dev@email.com",
-    href: "mailto:sathish.dev@email.com",
+    value: "sathisharunachalam1208@gmail.com",
+    href: "mailto:sathisharunachalam1208@gmail.com",
+  },
+  {
+    icon: Phone,
+    label: "Phone",
+    value: "+91 9940816288",
+    href: "tel:+919940816288",
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "github.com/sathish-a",
-    href: "https://github.com",
+    value: "github.com/Sathish120804",
+    href: "https://github.com/Sathish120804",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
     value: "linkedin.com/in/sathish-a",
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/sathish-a-3204aa27b",
   },
   {
     icon: MapPin,
